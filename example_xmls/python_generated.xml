@@ -1,0 +1,37 @@
+<dataFrame created_at="1548589719.092651">
+  <matrix ncols="3" nrows="1" variable_name="python_triplet">
+    <row_0>
+      <col_0>1.03</col_0>
+      <col_1>32.76</col_1>
+      <col_2>10.001</col_2>
+    </row_0>
+  </matrix>
+  <matrix ncols="4" nrows="4" variable_name="python_matrix">
+    <row_0>
+      <col_0>0</col_0>
+      <col_1>0</col_1>
+      <col_2>0</col_2>
+      <col_3>0</col_3>
+    </row_0>
+    <row_1>
+      <col_0>1</col_0>
+      <col_1>2</col_1>
+      <col_2>4</col_2>
+      <col_3>5</col_3>
+    </row_1>
+    <row_2>
+      <col_0>12</col_0>
+      <col_1>12</col_1>
+      <col_2>43</col_2>
+      <col_3>43</col_3>
+    </row_2>
+    <row_3>
+      <col_0>8</col_0>
+      <col_1>8</col_1>
+      <col_2>8</col_2>
+      <col_3>8</col_3>
+    </row_3>
+  </matrix>
+  <string variable_name="python_string">Woohoo. This was sent from Python.</string>
+  <boolean variable_name="python_boolean">True</boolean>
+</dataFrame>

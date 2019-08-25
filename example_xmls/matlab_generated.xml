@@ -1,0 +1,42 @@
+<dataFrame created_at="1548774667.535203">
+	<matrix ncols="1" nrows="1" variable_name="matlab_single_variable_as_matrix">
+		<row_0>
+			<col_0>42.000000</col_0>
+		</row_0>
+	</matrix>
+	<matrix ncols="3" nrows="1" variable_name="matlab_triplet">
+		<row_0>
+			<col_0>121.545000</col_0>
+			<col_1>1645.000000</col_1>
+			<col_2>120.110000</col_2>
+		</row_0>
+	</matrix>
+	<matrix ncols="4" nrows="4" variable_name="matlab_matrix">
+		<row_0>
+			<col_0>1.000000</col_0>
+			<col_1>2.000000</col_1>
+			<col_2>3.000000</col_2>
+			<col_3>5.000000</col_3>
+		</row_0>
+		<row_1>
+			<col_0>453.000000</col_0>
+			<col_1>34342.000000</col_1>
+			<col_2>342.000000</col_2>
+			<col_3>10.110000</col_3>
+		</row_1>
+		<row_2>
+			<col_0>3432.120000</col_0>
+			<col_1>3.435340</col_1>
+			<col_2>564.345200</col_2>
+			<col_3>0.000000</col_3>
+		</row_2>
+		<row_3>
+			<col_0>0.000000</col_0>
+			<col_1>0.000000</col_1>
+			<col_2>0.000000</col_2>
+			<col_3>1.000000</col_3>
+		</row_3>
+	</matrix>
+	<string variable_name="matlab_string">Woohoo. This was sent from Matlab.</string>
+	<boolean variable_name="matlab_boolean">True</boolean>
+</dataFrame>

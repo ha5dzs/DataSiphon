@@ -1,0 +1,26 @@
+<dataFrame created_at="1551173617.320720">
+	<string variable_name="c_sharp_string">Woohoo. This was sent from c#!</string>
+	<boolean variable_name="c_sharp_boolean">False</boolean>
+	<matrix ncols="3" nrows="3" variable_name="c_sharp_matrix">
+		<row_0>
+			<col_0>-1</col_0>
+			<col_1>2.10999989509583</col_1>
+			<col_2>3</col_2>
+		</row_0>
+		<row_1>
+			<col_0>1500</col_0>
+			<col_1>4000</col_1>
+			<col_2>16984</col_2>
+		</row_1>
+		<row_2>
+			<col_0>0</col_0>
+			<col_1>0</col_1>
+			<col_2>1</col_2>
+		</row_2>
+	</matrix>
+	<matrix ncols="1" nrows="1" variable_name="c_sharp_float">
+		<row_0>
+			<col_0>12.3430004119873</col_0>
+		</row_0>
+	</matrix>
+</dataFrame>

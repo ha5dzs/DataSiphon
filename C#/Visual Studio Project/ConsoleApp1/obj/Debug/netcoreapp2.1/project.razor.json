@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/ha5dzs/ownCloud/sandbox/xml_sandbox/c_sharp_xml_tools/ConsoleApp1/ConsoleApp1.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
